@@ -1,7 +1,7 @@
 
 
 
-<img src="https://content.wepik.com/statics/59259739/preview-page0.jpg"/>
+<h1 align="center"> <img src="https://content.wepik.com/statics/59259739/preview-page0.jpg"/>
 
 <h1 align="center"> Hello, I'm Maulina Intan!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" </h1>
@@ -13,6 +13,7 @@
 
 A Geophysics Undergraduate Student at Gadjah Mada University</h3>
 
+<h1 align="center">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="25" height="25" /> I’m from Klaten, Central Java, Indonesia
 
