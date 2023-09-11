@@ -13,7 +13,6 @@
 
 A Geophysics Undergraduate Student at Gadjah Mada University</h3>
 
-<h1 align="center">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="25" height="25" /> I’m from Klaten, Central Java, Indonesia
 
