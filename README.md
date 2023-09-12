@@ -12,13 +12,13 @@
 
 A Geophysics Undergraduate Student at Gadjah Mada University</h3>
 
-
+A person with huge curiosity and willingness to learn the earth, both socially and scientifically.  Interested in energy field such as oil and gas and also still learning about other potential renewable energy. As a geophysics student, currently studying geology, physics, and programming and its application for geophysicist
 
 Get to know me :
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" alt="House with Garden" width="25" height="25" /> I’m from Klaten, Central Java, Indonesia
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="25" height="25" /> I like studying geology
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="25" height="25" /> I like studying geology more
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Nine%20O%E2%80%99Clock.png" alt="Nine O’Clock" width="25" height="25" /> I sleep during the day and wake up at night
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Cartwheeling.png" alt="Woman Cartwheeling" width="25" height="25" /> My hobby is dancing
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Anxious%20Face%20with%20Sweat.png" alt="Anxious Face with Sweat" width="25" height="25" /> Fun fact : I can't handle spicy food 
